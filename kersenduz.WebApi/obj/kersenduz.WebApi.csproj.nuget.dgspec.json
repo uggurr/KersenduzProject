@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.WebApi\\kersenduz.WebApi.csproj": {}
+    "C:\\ugur\\KersenduzProject\\kersenduz.WebApi\\kersenduz.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj": {
+    "C:\\ugur\\KersenduzProject\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj",
+        "projectUniqueName": "C:\\ugur\\KersenduzProject\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj",
         "projectName": "kersenduz.Core.Repository",
-        "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Core.Repository\\obj\\",
+        "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj",
+        "packagesPath": "C:\\Users\\uggur_owsumc3\\.nuget\\packages\\",
+        "outputPath": "C:\\ugur\\KersenduzProject\\kersenduz.Core.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\uggur_owsumc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.16.24.2:50557/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj": {
-                "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj"
+              "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj": {
+                "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj"
               }
             }
           }
@@ -64,17 +63,17 @@
         }
       }
     },
-    "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj": {
+    "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj",
+        "projectUniqueName": "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj",
         "projectName": "kersenduz.DataAccess",
-        "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\obj\\",
+        "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\uggur_owsumc3\\.nuget\\packages\\",
+        "outputPath": "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\uggur_owsumc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,15 +81,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.16.24.2:50557/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\kersenduz.Shared.csproj": {
-                "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\kersenduz.Shared.csproj"
+              "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj": {
+                "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj"
               }
             }
           }
@@ -140,17 +138,17 @@
         }
       }
     },
-    "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\kersenduz.Shared.csproj": {
+    "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\kersenduz.Shared.csproj",
+        "projectUniqueName": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
         "projectName": "kersenduz.Shared",
-        "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\kersenduz.Shared.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\obj\\",
+        "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
+        "packagesPath": "C:\\Users\\uggur_owsumc3\\.nuget\\packages\\",
+        "outputPath": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\uggur_owsumc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,7 +156,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.16.24.2:50557/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -196,17 +193,17 @@
         }
       }
     },
-    "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.WebApi\\kersenduz.WebApi.csproj": {
+    "C:\\ugur\\KersenduzProject\\kersenduz.WebApi\\kersenduz.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.WebApi\\kersenduz.WebApi.csproj",
+        "projectUniqueName": "C:\\ugur\\KersenduzProject\\kersenduz.WebApi\\kersenduz.WebApi.csproj",
         "projectName": "kersenduz.WebApi",
-        "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.WebApi\\kersenduz.WebApi.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.WebApi\\obj\\",
+        "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.WebApi\\kersenduz.WebApi.csproj",
+        "packagesPath": "C:\\Users\\uggur_owsumc3\\.nuget\\packages\\",
+        "outputPath": "C:\\ugur\\KersenduzProject\\kersenduz.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\uggur_owsumc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,18 +211,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.16.24.2:50557/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj": {
-                "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj"
+              "C:\\ugur\\KersenduzProject\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj": {
+                "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj"
               },
-              "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj": {
-                "projectPath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj"
+              "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj": {
+                "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.DataAccess\\kersenduz.DataAccess.csproj"
               }
             }
           }

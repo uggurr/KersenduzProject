@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kersenduz.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffd8971103f261ffac81fb0e9cf6314d496245e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6892a415c72cbc00c5e99a34585409267a08a87e")]
 [assembly: System.Reflection.AssemblyProductAttribute("kersenduz.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kersenduz.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

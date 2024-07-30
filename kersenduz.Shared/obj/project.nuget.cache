@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FEh8T4xOs7NA+wPabOjZycpt1f4cumwvh5KkWTtpWHrI3G5iUrx92w6WvS6AUHMEePIPV/fiyr9QSWnxoacJSQ==",
+  "dgSpecHash": "iT/D1Jjrsreh4pqolymk5rWgb+fIIWRrWOxX6UxgBdrfBayegIkXZRh58lTamXKZchipbRvoOiOpOYJ1JFQIgw==",
   "success": true,
-  "projectFilePath": "C:\\ugur\\project\\kersenduz\\KersenduzTakip\\kersenduz.Shared\\kersenduz.Shared.csproj",
+  "projectFilePath": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.16.24.2:50557/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
