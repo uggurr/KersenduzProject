@@ -1,0 +1,17 @@
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.Core.Repository.deps.json
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.Core.Repository.dll
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.Core.Repository.pdb
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.DataAccess.dll
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.Shared.dll
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.DataAccess.pdb
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\bin\Debug\net8.0\kersenduz.Shared.pdb
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.csproj.AssemblyReference.cache
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.AssemblyInfoInputs.cache
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.AssemblyInfo.cs
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.csproj.CoreCompileInputs.cache
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.csproj.CopyComplete
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.dll
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\refint\kersenduz.Core.Repository.dll
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\kersenduz.Core.Repository.pdb
+C:\ugur\project\kersenduz\KersenduzTakip\kersenduz.Core.Repository\obj\Debug\net8.0\ref\kersenduz.Core.Repository.dll
