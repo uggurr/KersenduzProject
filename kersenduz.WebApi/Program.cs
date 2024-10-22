@@ -4,8 +4,10 @@ using kersenduz.DataAccess.UnitOfWork.Implement;
 using kersenduz.DataAccess.UnitOfWork.Interface;
 using Microsoft.EntityFrameworkCore;
 using kersenduz.WebApi.Service.IoC;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 

@@ -12,7 +12,7 @@ using kersenduz.DataAccess.Context;
 namespace kersenduz.DataAccess.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240729131551_Init")]
+    [Migration("20241019060934_Init")]
     partial class Init
     {
         /// <inheritdoc />
@@ -33,12 +33,18 @@ namespace kersenduz.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("CreatedTime")
+                    b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("ModifiedDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -47,9 +53,6 @@ namespace kersenduz.DataAccess.Migrations
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("UpdatedTime")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("UserName")
                         .IsRequired()

@@ -21,3 +21,15 @@ C:\ugur\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.dll
 C:\ugur\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\refint\kersenduz.Shared.dll
 C:\ugur\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.pdb
 C:\ugur\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\ref\kersenduz.Shared.dll
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\bin\Debug\net8.0\kersenduz.Shared.deps.json
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\bin\Debug\net8.0\kersenduz.Shared.dll
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\bin\Debug\net8.0\kersenduz.Shared.pdb
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.AssemblyInfoInputs.cache
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.AssemblyInfo.cs
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.csproj.CoreCompileInputs.cache
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.sourcelink.json
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.dll
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\refint\kersenduz.Shared.dll
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\kersenduz.Shared.pdb
+C:\ugur\Kersenduz\KersenduzProject\kersenduz.Shared\obj\Debug\net8.0\ref\kersenduz.Shared.dll

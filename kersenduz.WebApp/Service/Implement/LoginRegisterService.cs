@@ -18,7 +18,7 @@ namespace kersenduz.WebApp.Service.Implement
         {
             try
             {
-                var result = _requestHelper.Post<User>("https://localhost:44300/api/LoginRegister/Register",model).Result;
+                var result = _requestHelper.Post<User>("https://localhost:44300/api/LoginRegister/Register", model).Result;
                 return result;
             }
             catch (Exception ex)

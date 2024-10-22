@@ -4,10 +4,9 @@ namespace kersenduz.Shared.Models;
 
 public class User : BaseModel
 {
+    
     public string Name { get; set; }
     public string Email { get; set; }
     public string Password { get; set; }
     public string UserName { get; set; }
-    public DateTime CreatedTime { get; set; }
-    public DateTime UpdatedTime { get; set; }
 }

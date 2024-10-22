@@ -53,7 +53,10 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "kersenduz.Shared/1.0.0": {
         "runtime": {
-          "kersenduz.Shared.dll": {}
+          "kersenduz.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

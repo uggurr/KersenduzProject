@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\uggur_owsumc3\\.nuget\\packages\\": {}
+    "C:\\Users\\uggur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
+      "projectUniqueName": "C:\\ugur\\Kersenduz\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
       "projectName": "kersenduz.Shared",
-      "projectPath": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
-      "packagesPath": "C:\\Users\\uggur_owsumc3\\.nuget\\packages\\",
-      "outputPath": "C:\\ugur\\KersenduzProject\\kersenduz.Shared\\obj\\",
+      "projectPath": "C:\\ugur\\Kersenduz\\KersenduzProject\\kersenduz.Shared\\kersenduz.Shared.csproj",
+      "packagesPath": "C:\\Users\\uggur\\.nuget\\packages\\",
+      "outputPath": "C:\\ugur\\Kersenduz\\KersenduzProject\\kersenduz.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\uggur_owsumc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\uggur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

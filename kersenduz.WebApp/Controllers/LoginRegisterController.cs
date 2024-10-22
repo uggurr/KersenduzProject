@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace kersenduz.WebApp.Controllers
 {
-    [Route("[Controller]")]
     public class LoginRegisterController : Controller
     {
         private readonly ILoginRegisterService _loginRegisterService;
@@ -19,8 +18,7 @@ namespace kersenduz.WebApp.Controllers
             return View();
         }
 
-        [Route("Register")]
-        [HttpGet]
+        [HttpPost]
         public async Task<User> Register([FromBody]User model)
         {
             return await _loginRegisterService.RegisterService(model);

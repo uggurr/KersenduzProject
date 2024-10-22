@@ -1,0 +1,26 @@
+﻿.card-link {
+    text-decoration: none;
+    color: inherit; /* Varsayılan yazı rengini koru */
+}
+
+    .card-link:hover {
+        text-decoration: none;
+        color: inherit; /* Üzerine gelindiğinde yazı rengini koru */
+    }
+
+.card {
+    height: 250px; /* Kartların yüksekliğini sabitle */
+    border: 1px solid #445240; /* Kenar rengi */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+    transition: transform 0.2s; /* Geçiş animasyonu */
+}
+
+    .card:hover {
+        transform: scale(1.05); /* Hover sırasında büyüme efekti */
+    }
+
+.icon {
+    font-size: 100px; /* İkon boyutu */
+    margin-bottom: 10px; /* İkon ve metin arasındaki boşluk */
+    color: #445240; /* İkon rengi */
+}
