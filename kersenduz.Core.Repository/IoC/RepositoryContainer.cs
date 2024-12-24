@@ -14,5 +14,7 @@ public static class RepositoryContainer
     public static void AddScopedRepository(this IServiceCollection services)
     {
         services.AddScoped<IUserRepository, UserRepository>();
+        services.AddScoped<IUnitRepository, UnitRepository>();
+        services.AddScoped<IRawMaterialRepository, RawMaterialRepository>();
     }
 }

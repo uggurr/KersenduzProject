@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "+aLritT8UbuRZKPmSoskAf82sbfM1n/lFQk55R9RY5o=",
+  "Hash": "lOpYIf8PziyUcJG7EAw7YWIBs2cJaCuf7/I/saDreQY=",
   "Source": "kersenduz.WebApi",
   "BasePath": "_content/kersenduz.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

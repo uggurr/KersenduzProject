@@ -1,0 +1,66 @@
+﻿.content {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px 100px;
+}
+
+.left-section {
+  flex: 1;
+}
+
+.right-section {
+  flex: 2;
+}
+.miktar-alan{
+  margin-left:10px;
+  padding: 1px 0;
+  padding-left: 10px;
+}
+
+.form-control:focus, .form-select:focus {
+  outline: none !important;
+  box-shadow: none;
+  border: 1px solid #445240;
+}
+.btn:focus{
+  box-shadow:none;
+}
+.select2-container--default .select2-selection--single:focus,
+.select2-container--default .select2-selection--multiple:focus {
+  outline: none !important; /* Varsayılan mavi outline'ı kaldır */
+  border: 1px solid #445240;
+}
+
+.select2-results__option[aria-selected='true'] {
+  background-color: #445240 !important;
+  color: white !important;
+}
+
+.select2-results__option:hover {
+  background-color: #445240 !important;
+  color: white !important;
+}
+.add-hammadde{
+  background-color: green;
+}
+
+.remove-hammadde{
+  background-color:red;
+}
+.bi-plus, .bi-dash{
+  color: white;
+}
+
+.save-button{
+  display:flex;
+  justify-content:end;
+}
+
+.save-btn {
+  background-color: #445240;
+  color: #fff;
+}
+
+.birim-alan{
+  margin-left:5px;
+}

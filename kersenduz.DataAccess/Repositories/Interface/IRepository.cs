@@ -20,7 +20,7 @@ public interface IRepository<T> where T : BaseModel
     void DeleteRangeAsync(IEnumerable<T> entities);
     T DeleteByIdAsync(int id);
     Task<List<T>> ListAsync();
-    Task<List<T>> ListAync(Expression<Func<T, bool>> expression);
+    Task<List<T>> ListAsync(Expression<Func<T, bool>> expression);
     Task<T> GetByIdAsyn(int id);
     IQueryable<T> GetAll();
     IQueryable<T> GetWhere(Expression<Func<T, bool>> expression);

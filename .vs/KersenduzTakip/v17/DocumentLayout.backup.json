@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ugur\\KersenduzProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\service\\implement\\rawmaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\service\\implement\\rawmaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\service\\interface\\irawmaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\service\\interface\\irawmaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\controllers\\rawmaterialapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\controllers\\rawmaterialapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\controllers\\rawmaterialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\controllers\\rawmaterialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\wwwroot\\js\\rawmaterialpage\\rawmaterialpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\wwwroot\\js\\rawmaterialpage\\rawmaterialpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\views\\rawmaterial\\rawmaterialpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\views\\rawmaterial\\rawmaterialpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\controllers\\unitapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\controllers\\unitapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF9AA6-22AF-4BD0-803A-B39B3DDB0836}|kersenduz.DataAccess\\kersenduz.DataAccess.csproj|c:\\ugur\\kersenduzproject\\kersenduz.dataaccess\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF9AA6-22AF-4BD0-803A-B39B3DDB0836}|kersenduz.DataAccess\\kersenduz.DataAccess.csproj|solutionrelative:kersenduz.dataaccess\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF9AA6-22AF-4BD0-803A-B39B3DDB0836}|kersenduz.DataAccess\\kersenduz.DataAccess.csproj|c:\\ugur\\kersenduzproject\\kersenduz.dataaccess\\repositories\\implement\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF9AA6-22AF-4BD0-803A-B39B3DDB0836}|kersenduz.DataAccess\\kersenduz.DataAccess.csproj|solutionrelative:kersenduz.dataaccess\\repositories\\implement\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\models\\rawmaterialvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\models\\rawmaterialvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\service\\implement\\unitapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\service\\implement\\unitapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|c:\\ugur\\kersenduzproject\\kersenduz.core.repository\\implement\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|solutionrelative:kersenduz.core.repository\\implement\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|c:\\ugur\\kersenduzproject\\kersenduz.core.repository\\implement\\rawmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|solutionrelative:kersenduz.core.repository\\implement\\rawmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|c:\\ugur\\kersenduzproject\\kersenduz.shared\\models\\rawmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|solutionrelative:kersenduz.shared\\models\\rawmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\service\\interface\\iunitapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\service\\interface\\iunitapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Migrations\\20241218090211_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kersenduz.DataAccess\\Migrations\\20241218090211_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|c:\\ugur\\kersenduzproject\\kersenduz.shared\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|solutionrelative:kersenduz.shared\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|c:\\ugur\\kersenduzproject\\kersenduz.shared\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|solutionrelative:kersenduz.shared\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CF9AA6-22AF-4BD0-803A-B39B3DDB0836}|kersenduz.DataAccess\\kersenduz.DataAccess.csproj|c:\\ugur\\kersenduzproject\\kersenduz.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CF9AA6-22AF-4BD0-803A-B39B3DDB0836}|kersenduz.DataAccess\\kersenduz.DataAccess.csproj|solutionrelative:kersenduz.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|c:\\ugur\\kersenduzproject\\kersenduz.web_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA85E54-B866-441A-8ED4-45D6CEE7578B}|kersenduz.Web_App\\kersenduz.Web_App.csproj|solutionrelative:kersenduz.web_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|c:\\ugur\\kersenduzproject\\kersenduz.core.repository\\ioc\\repositorycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|solutionrelative:kersenduz.core.repository\\ioc\\repositorycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|c:\\ugur\\kersenduzproject\\kersenduz.core.repository\\interface\\irawmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DAE24F-1FD2-498A-89CD-BB3F2C3847CD}|kersenduz.Core.Repository\\kersenduz.Core.Repository.csproj|solutionrelative:kersenduz.core.repository\\interface\\irawmaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\service\\ioc\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\service\\ioc\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|c:\\ugur\\kersenduzproject\\kersenduz.shared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B325EC-E928-4A09-8C46-156E665244C7}|kersenduz.Shared\\kersenduz.Shared.csproj|solutionrelative:kersenduz.shared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|c:\\ugur\\kersenduzproject\\kersenduz.webapi\\service\\implement\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A6C3-0F66-400E-B597-2C6390877E14}|kersenduz.WebApi\\kersenduz.WebApi.csproj|solutionrelative:kersenduz.webapi\\service\\implement\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRespository.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\Implement\\UserRespository.cs",
+              "RelativeDocumentMoniker": "kersenduz.Core.Repository\\Implement\\UserRespository.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\Implement\\UserRespository.cs",
+              "RelativeToolTip": "kersenduz.Core.Repository\\Implement\\UserRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:11:26.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitApiService.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Interface\\IUnitApiService.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Service\\Interface\\IUnitApiService.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Interface\\IUnitApiService.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Service\\Interface\\IUnitApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:45:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RawMaterialVm.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Models\\RawMaterialVm.cs",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\Models\\RawMaterialVm.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Models\\RawMaterialVm.cs",
+              "RelativeToolTip": "kersenduz.Web_App\\Models\\RawMaterialVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:42:52.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RawMaterialPage.js",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\wwwroot\\js\\RawMaterialPage\\RawMaterialPage.js",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\wwwroot\\js\\RawMaterialPage\\RawMaterialPage.js",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\wwwroot\\js\\RawMaterialPage\\RawMaterialPage.js",
+              "RelativeToolTip": "kersenduz.Web_App\\wwwroot\\js\\RawMaterialPage\\RawMaterialPage.js",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T08:00:29.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Repositories\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "kersenduz.DataAccess\\Repositories\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Repositories\\Interface\\IRepository.cs",
+              "RelativeToolTip": "kersenduz.DataAccess\\Repositories\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:36:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Repositories\\Implement\\Repository.cs",
+              "RelativeDocumentMoniker": "kersenduz.DataAccess\\Repositories\\Implement\\Repository.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Repositories\\Implement\\Repository.cs",
+              "RelativeToolTip": "kersenduz.DataAccess\\Repositories\\Implement\\Repository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAhwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:35:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241218090211_Init.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Migrations\\20241218090211_Init.cs",
+              "RelativeDocumentMoniker": "kersenduz.DataAccess\\Migrations\\20241218090211_Init.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Migrations\\20241218090211_Init.cs",
+              "RelativeToolTip": "kersenduz.DataAccess\\Migrations\\20241218090211_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:02:12.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeDocumentMoniker": "kersenduz.Shared\\Models\\BaseModels\\BaseModel.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeToolTip": "kersenduz.Shared\\Models\\BaseModels\\BaseModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:00:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "kersenduz.Shared\\Models\\Category.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\Category.cs",
+              "RelativeToolTip": "kersenduz.Shared\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:00:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "kersenduz.Web_App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:45:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RepositoryContainer.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\IoC\\RepositoryContainer.cs",
+              "RelativeDocumentMoniker": "kersenduz.Core.Repository\\IoC\\RepositoryContainer.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\IoC\\RepositoryContainer.cs",
+              "RelativeToolTip": "kersenduz.Core.Repository\\IoC\\RepositoryContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:29:18.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RawMaterialRepository.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\Implement\\RawMaterialRepository.cs",
+              "RelativeDocumentMoniker": "kersenduz.Core.Repository\\Implement\\RawMaterialRepository.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\Implement\\RawMaterialRepository.cs",
+              "RelativeToolTip": "kersenduz.Core.Repository\\Implement\\RawMaterialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:28:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRawMaterialRepository.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\Interface\\IRawMaterialRepository.cs",
+              "RelativeDocumentMoniker": "kersenduz.Core.Repository\\Interface\\IRawMaterialRepository.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Core.Repository\\Interface\\IRawMaterialRepository.cs",
+              "RelativeToolTip": "kersenduz.Core.Repository\\Interface\\IRawMaterialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:28:12.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\IoC\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Service\\IoC\\ServiceContainer.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\IoC\\ServiceContainer.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Service\\IoC\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:27:16.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RawMaterialService.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Implement\\RawMaterialService.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Service\\Implement\\RawMaterialService.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Implement\\RawMaterialService.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Service\\Implement\\RawMaterialService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:27:00.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRawMaterialService.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Interface\\IRawMaterialService.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Service\\Interface\\IRawMaterialService.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Interface\\IRawMaterialService.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Service\\Interface\\IRawMaterialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:26:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RawMaterialApiController.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Controllers\\RawMaterialApiController.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Controllers\\RawMaterialApiController.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Controllers\\RawMaterialApiController.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Controllers\\RawMaterialApiController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:24:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RawMaterialController.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Controllers\\RawMaterialController.cs",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\Controllers\\RawMaterialController.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Controllers\\RawMaterialController.cs",
+              "RelativeToolTip": "kersenduz.Web_App\\Controllers\\RawMaterialController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADgv3UAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:18:08.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "kersenduz.Web_App\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:17:58.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RawMaterial.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\RawMaterial.cs",
+              "RelativeDocumentMoniker": "kersenduz.Shared\\Models\\RawMaterial.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\RawMaterial.cs",
+              "RelativeToolTip": "kersenduz.Shared\\Models\\RawMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:12:08.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RawMaterialPage.cshtml",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Views\\RawMaterial\\RawMaterialPage.cshtml",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\Views\\RawMaterial\\RawMaterialPage.cshtml",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Views\\RawMaterial\\RawMaterialPage.cshtml",
+              "RelativeToolTip": "kersenduz.Web_App\\Views\\RawMaterial\\RawMaterialPage.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:09:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "kersenduz.Web_App\\Controllers\\UnitController.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Web_App\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "kersenduz.Web_App\\Controllers\\UnitController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:05:22.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Implement\\ProductService.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Service\\Implement\\ProductService.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Implement\\ProductService.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Service\\Implement\\ProductService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:46:40.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "kersenduz.Shared\\Models\\Product.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.Shared\\Models\\Product.cs",
+              "RelativeToolTip": "kersenduz.Shared\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:44:34.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "kersenduz.DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "kersenduz.DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:44:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitApiController.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Controllers\\UnitApiController.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Controllers\\UnitApiController.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Controllers\\UnitApiController.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Controllers\\UnitApiController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:40:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitApiService.cs",
+              "DocumentMoniker": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Implement\\UnitApiService.cs",
+              "RelativeDocumentMoniker": "kersenduz.WebApi\\Service\\Implement\\UnitApiService.cs",
+              "ToolTip": "C:\\Ugur\\KersenduzProject\\kersenduz.WebApi\\Service\\Implement\\UnitApiService.cs",
+              "RelativeToolTip": "kersenduz.WebApi\\Service\\Implement\\UnitApiService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:40:07.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

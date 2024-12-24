@@ -70,7 +70,7 @@ public class Repository<T> : IRepository<T> where T : BaseModel
         return await Entity.ToListAsync();
     }
 
-    public async Task<List<T>> ListAync(Expression<Func<T, bool>> expression)
+    public async Task<List<T>> ListAsync(Expression<Func<T, bool>> expression)
     {
         return await Entity.Where(expression).ToListAsync();
     }

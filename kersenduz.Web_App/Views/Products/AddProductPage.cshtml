@@ -1,0 +1,110 @@
+﻿<link href="~/css/product/addproductpage.css" rel="stylesheet" />
+
+<div class="container mt-5">
+  <h2 class="text-center mb-4">Ürün ve Hammadde Yönetimi</h2>
+  <div class="content">
+    <!-- Sol Kısım -->
+    <div class="left-section">
+      <div class="mb-3">
+        <label for="kategori" class="form-label">Kategori</label>
+        <select class="form-select" id="kategori">
+          <option selected>Kategori Seçin</option>
+          <option value="1">Kategori 1</option>
+          <option value="2">Kategori 2</option>
+          <option value="3">Kategori 3</option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label for="urunAdi" class="form-label">Ürün Adı</label>
+        <input type="text" class="form-control" id="urunAdi" placeholder="Ürün adını girin">
+      </div>
+      <div class="mb-3">
+        <label for="fiyat" class="form-label">Fiyat</label>
+        <input type="number" class="form-control" id="fiyat" disabled>
+      </div>
+    </div>
+
+    <!-- Sağ Kısım -->
+    <div class="right-section">
+      <h5>Hammaddeler</h5>
+      <div id="hammaddeler" class="mb-3">
+        <!-- Hammadde Satırı Şablonu -->
+        <div class="d-flex align-items-center mb-2 hammadde-row" data-id="1">
+          <button type="button" class="btn btn-sm me-2 add-hammadde"><i class="bi bi-plus"></i></button>
+          <select class="form-select me-2" style="width: 50%;">
+            <option selected>Hammadde Seçin</option>
+            <option value="1">Hammadde 1</option>
+            <option value="2">Hammadde 2</option>
+            <option value="3">Hammadde 3</option>
+          </select>
+          <select class="form-select me-2 birim-alan" style="width: 10%;">
+            <option selected>Birim</option>
+            <option value="1">Kg</option>
+            <option value="1">Gr</option>
+            <option value="2">L</option>
+            <option value="3">Ml</option>
+          </select>
+          <input type="number" class="form-control me-2 miktar-alan" placeholder="Miktar" style="width: 25%;">
+          <button type="button" class="btn btn-sm remove-hammadde"><i class="bi bi-dash"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Kaydet Butonu -->
+  <div class="save-button">
+    <button class="btn save-btn">Kaydet</button>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function () {
+     $('.form-select').select2();
+      let rowId = 1; // Başlangıç ID'si
+
+      // Hammadde ekleme
+      $(document).on('click', '.add-hammadde', function () {
+          rowId++;
+          const newRow = `<div class="d-flex align-items-center mb-2 hammadde-row" data-id="${rowId}">
+                              <button type="button" class="btn btn-success btn-sm me-2 add-hammadde"><i class="bi bi-plus"></i></button>
+                              <select class="form-select me-2" style="width: 50%;">
+                                  <option selected>Hammadde Seçin</option>
+                                  <option value="1">Hammadde 1</option>
+                                  <option value="2">Hammadde 2</option>
+                                  <option value="3">Hammadde 3</option>
+                              </select>
+                              <select class="form-select me-2 birim-alan" style="width: 10%;">
+                                  <option selected>Birim</option>
+                                  <option value="1">Kg</option>
+                                  <option value="1">Gr</option>
+                                  <option value="2">L</option>
+                                  <option value="3">Ml</option>
+                              </select>
+                              <input type="number" class="form-control me-2 miktar-alan" placeholder="Miktar" style="width: 25%;">
+                              <button type="button" class="btn btn-danger btn-sm remove-hammadde"><i class="bi bi-dash"></i></button>
+                          </div>`;
+          $('#hammaddeler').append(newRow);
+          updateRowIds();
+          $('.form-select').select2();
+      });
+
+      // Hammadde silme
+      $(document).on('click', '.remove-hammadde', function () {
+          if ($('.hammadde-row').length > 1) {
+              $(this).closest('.hammadde-row').remove();
+              updateRowIds();
+          } else {
+              alert('En az bir hammadde ekli olmalıdır.');
+          }
+      });
+
+      // Satır ID'lerini güncelle
+      function updateRowIds() {
+          rowId = 0;
+          $('#hammaddeler .hammadde-row').each(function () {
+              rowId++;
+              $(this).attr('data-id', rowId);
+          });
+      }
+  });
+</script>
